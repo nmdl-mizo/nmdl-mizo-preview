@@ -1,13 +1,13 @@
 ---
 # Banner
 banner:
-  title: ""
-  content: "<h2>Nano-materials design laboratory <br> The University of Tokyo</h>"
+  title: "これは preview です"
+  content: "<p>このサイトは *本番公開前の確認用 preview* です．内容やデザインは調整中で，正式版は別にあります．</p><p><b>正式サイトと混同しないよう，確認用としてご覧ください．</b></p><p>正式サイト：<a href='https://nmdl-mizo.github.io/'>https://nmdl-mizo.github.io/</a></p>"
   image: "/images/head1.jpg"
   button:
-    enable: false
-    label: "Mizoguchi Research Group"
-    link: ""
+    enable: true
+    label: "正式サイトを見る"
+    link: "https://nmdl-mizo.github.io/"
 
 # Features
 features:

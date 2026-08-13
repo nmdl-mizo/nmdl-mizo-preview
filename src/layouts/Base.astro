@@ -50,6 +50,7 @@ const language = lang || getLangFromUrl(Astro.url);
 const siteBaseUrl = config.site.base_url.replace(/\/$/, "");
 const normalizedPathname = stripBasePath(Astro.url.pathname);
 const normalizedPagePath = normalizedPathname === "/" ? "" : normalizedPathname;
+const shouldNoindex = noindex ?? true;
 ---
 
 <!doctype html>
@@ -112,7 +113,8 @@ const normalizedPagePath = normalizedPathname === "/" ? "" : normalizedPathname;
     {canonical && <link rel="canonical" href={canonical} item-prop="url" />}
 
     <!-- noindex robots -->
-    {noindex && <meta name="robots" content="noindex,nofollow" />}
+    {shouldNoindex && <meta name="robots" content="noindex,nofollow" />}
+    {shouldNoindex && <meta name="googlebot" content="noindex,nofollow" />}
 
     <!-- meta-description -->
     <meta
@@ -184,6 +186,9 @@ const normalizedPagePath = normalizedPathname === "/" ? "" : normalizedPathname;
   <body>
     <TwSizeIndicator />
     <Header />
+    <div class="bg-dark px-4 py-2 text-center text-sm font-semibold uppercase tracking-widest text-white dark:bg-white dark:text-dark">
+      Preview site, not the official NMDL website
+    </div>
     <SearchModal lang={language} client:load />
     <main id="main-content">
       <slot />
