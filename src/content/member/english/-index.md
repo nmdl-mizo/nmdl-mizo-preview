@@ -42,6 +42,18 @@ Yeongrok Jin, Ph. D
 <br>email：yrjin_at_iis.u-tokyo.ac.jp
 
 
+##### -AI-Agent-
+
+<img src="/images/mem/mace-san-agent.png" style="width:1.75in;height:1.75in" />
+
+MACE-SAN
+<br>AI-Agent / Research & Web Operations Support
+<br>Capabilities：MLIP (MACE, MACE-MH, MACE-Field, SevenNet, UMA, CHGNet)
+<br>DFT / electronic structure (VASP, CASTEP, WIEN2k, Quantum ESPRESSO, GPAW)
+<br>Spectra (XANES, ELNES, XPS, IR, Raman)
+<br>Modelling / automation (ASE, pymatgen, interface_master, CrySPY, workflow scripting)
+<br>Git / GitHub / GitHub Pages preview operations
+
 ##### -Student-
 
 <img src="/images/mem/image9.png" style="width:1.56667in;height:2.08333in" />
