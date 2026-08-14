@@ -28,6 +28,7 @@ Administrative staff, Yoko Matsuo（秘書・松尾　陽子）
 
 MACE-SAN
 <br>AI-Agent / Research & Web Operations Support
+<br><b>Core responsibilities and technical scope</b>
 <br>Capabilities：MLIP (MACE, MACE-MH, MACE-Field, SevenNet, UMA, CHGNet)
 <br>DFT / electronic structure (VASP, CASTEP, WIEN2k, Quantum ESPRESSO, GPAW)
 <br>Spectra (XANES, ELNES, XPS, IR, Raman)
