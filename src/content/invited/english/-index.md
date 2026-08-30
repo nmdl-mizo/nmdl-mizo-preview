@@ -7,61 +7,61 @@ draft: false
 ---
  <p align="right"> **Bold** *indicates presenter*
  
-1.  **Teruyasu Mizoguchi**
-    “***”,
-    X-ray Analysis Discussion Meeting, Kunibiki Messe, Shimane, Oct. 22, 2026.
+1.  **溝口照康**
+    ”***“，
+    X線分析討論会，くにびきメッセ，島根，Oct. 22，2026．
+
+1.  **溝口照康**
+    ”***“，
+    RIST第22回材料系ワークショップ，秋葉原（ハイブリッド），東京，Oct. 21，2026．
+
+1.  **溝口照康**
+    ”***“，
+    ACSIN-16 & ICSPM34，姫路，兵庫，Oct. 20，2026．
+
+1.  **溝口照康**
+    ”***“（基調講演），
+    附置研・センター会議第1部会シンポジウム，オンライン，Oct. 13，2026．
+
+1.  **溝口照康**
+    ”***“，
+    RIKEN Seminar，理化学研究所，和光，Sep. 30，2026．
+
+1.  **溝口照康**
+    ”***“，
+    東京都市大学－生産技術研究所 学術連携シンポジウム，東京都市大学渋谷 PXU，東京，Sep. 30，2026．
+
+1.  **溝口照康**
+    ”AI-Driven Materials Discovery: From Atomistic Simulation to Generative Design“，
+    4th JAsCerS Special Symposium 2026 on the Satellite Program of ICC11，札幌，北海道，Sep. 6，2026．
 
 1.  **Teruyasu Mizoguchi**
-    “***”,
-    RIST 22nd Materials Workshop, Akihabara (hybrid), Tokyo, Oct. 21, 2026.
+    ”AI for Ferroelectric Materials: From Atomistic Dynamics to Generative Design“，
+    15th Korea-Japan Conference on Ferroelectrics，KAIST，大田，韓国，Aug. 27，2026．
 
 1.  **Teruyasu Mizoguchi**
-    “***”,
-    ACSIN-16 & ICSPM34, Himeji, Hyogo, Oct. 20, 2026.
+    ”Inverse analysis for spectrum and materials“（Plenary Talk），
+    TOCAT10 Pre-Symposium in Sendai，仙台，Aug. 17，2026．
 
-1.  **Teruyasu Mizoguchi**
-    “***” (Keynote Lecture),
-    Symposium of the 1st Division of the Council of Joint Usage/Research Centers and Institutes, Online, Oct. 13, 2026.
+1.  **溝口照康**
+    ”AI技術を活用したマテリアル探索と解析“，
+    CAMMフォーラム，オンライン，Aug. 7，2026．
 
-1.  **Teruyasu Mizoguchi**
-    “***”,
-    RIKEN Seminar, RIKEN, Wako, Sep. 30, 2026.
+1.  **溝口照康**
+    ”AIと共に物質を設計する“，
+    鶴岡高専セミナー，鶴岡，山形，Aug. 4，2026．
 
-1.  **Teruyasu Mizoguchi**
-    “***”,
-    Tokyo City University–Institute of Industrial Science Academic Collaboration Symposium, Tokyo City University Shibuya PXU, Tokyo, Sep. 30, 2026.
+1.  **溝口照康**
+    ”量子コンピュータは半導体材料開発にどう貢献できるのか～シミュレーションサイドからみた期待～“，
+    Qunasisセミナー，RISE-A，大手町，東京，July 28，2026．
 
-1.  **Teruyasu Mizoguchi**
-    “AI-Driven Materials Discovery: From Atomistic Simulation to Generative Design”,
-    4th JAsCerS Special Symposium 2026 on the Satellite Program of ICC11, Sapporo, Hokkaido, Sep. 6, 2026.
+1.  **溝口照康**
+    ”「情報基礎で学ぶコト」を活用した物質開発“，
+    埼玉大学情報基礎特別講義，埼玉大学，埼玉，July 24，2026．
 
-1.  **Teruyasu Mizoguchi**
-    “AI for Ferroelectric Materials: From Atomistic Dynamics to Generative Design”,
-    15th Korea-Japan Conference on Ferroelectrics, KAIST, Daejeon, Korea, Aug. 27, 2026.
-
-1.  **Teruyasu Mizoguchi**
-    “Inverse analysis for spectrum and materials” (Plenary Talk),
-    TOCAT10 Pre-Symposium in Sendai, Sendai, Aug. 17, 2026.
-
-1.  **Teruyasu Mizoguchi**
-    “AI 技術を活用したマテリアル探索と解析”,
-    CAMM Forum, Online, Aug. 7, 2026.
-
-1.  **Teruyasu Mizoguchi**
-    “AI と共に物質を設計する”,
-    Tsuruoka National College of Technology Seminar, Tsuruoka, Yamagata, Aug. 4, 2026.
-
-1.  **Teruyasu Mizoguchi**
-    “量子コンピュータは半導体材料開発にどう貢献できるのか～シミュレーションサイドからみた期待～”,
-    Qunasis Seminar, RISE-A, Otemachi, Tokyo, July 28, 2026.
-
-1.  **Teruyasu Mizoguchi**
-    “「情報基礎で学ぶコト」を活用した物質開発”,
-    Saitama University Special Lecture on Information Fundamentals, Saitama University, Saitama, July 24, 2026.
-
-1.  **Teruyasu Mizoguchi**
-    “AI 技術およびシミュレーションを活用した物質研究”,
-    Tokyo National College of Technology Seminar, Hachioji, Tokyo, July 10, 2026.
+1.  **溝口照康**
+    ”AI技術およびシミュレーションを活用した物質研究“，
+    東京高専セミナー，八王子，東京，July 10，2026．
 
 1.  **溝口照康**，**高原泉**，  
     ”生成AI・LLMを活用した物質研究と新たな研究連携の可能性“  
