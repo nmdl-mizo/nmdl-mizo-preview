@@ -8,8 +8,20 @@ draft: false
  <p align="right"> **Bold** *indicates presenter*
  
 1.  **溝口照康**
-    ”AI-Driven Materials Discovery: From Atomistic Simulation to Generative Design“,
-    4th JAsCerS Special Symposium 2026 on the Satellite Program of ICC11，札幌，北海道，Sep. 6，2026．
+    ”***“，
+    X線分析討論会，くにびきメッセ，島根，Oct. 22，2026．
+
+1.  **溝口照康**
+    ”***“，
+    RIST第22回材料系ワークショップ，秋葉原（ハイブリッド），東京，Oct. 21，2026．
+
+1.  **溝口照康**
+    ”***“，
+    ACSIN-16 & ICSPM34，姫路，兵庫，Oct. 20，2026．
+
+1.  **溝口照康**
+    ”***“（基調講演），
+    附置研・センター会議第1部会シンポジウム，オンライン，Oct. 13，2026．
 
 1.  **溝口照康**
     ”***“，
@@ -20,20 +32,8 @@ draft: false
     東京都市大学－生産技術研究所 学術連携シンポジウム，東京都市大学渋谷 PXU，東京，Sep. 30，2026．
 
 1.  **溝口照康**
-    ”***“（基調講演），
-    附置研・センター会議第1部会シンポジウム，オンライン，Oct. 13，2026．
-
-1.  **溝口照康**
-    ”***“，
-    ACSIN-16 & ICSPM34，姫路，兵庫，Oct. 20，2026．
-
-1.  **溝口照康**
-    ”***“，
-    RIST第22回材料系ワークショップ，秋葉原（ハイブリッド），東京，Oct. 21，2026．
-
-1.  **溝口照康**
-    ”***“，
-    X線分析討論会，くにびきメッセ，島根，Oct. 22，2026．
+    ”AI-Driven Materials Discovery: From Atomistic Simulation to Generative Design“，
+    4th JAsCerS Special Symposium 2026 on the Satellite Program of ICC11，札幌，北海道，Sep. 6，2026．
 
 1.  **Teruyasu Mizoguchi**
     ”AI for Ferroelectric Materials: From Atomistic Dynamics to Generative Design“，

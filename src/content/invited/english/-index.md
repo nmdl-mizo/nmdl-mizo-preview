@@ -8,8 +8,20 @@ draft: false
  <p align="right"> **Bold** *indicates presenter*
  
 1.  **Teruyasu Mizoguchi**
-    “AI-Driven Materials Discovery: From Atomistic Simulation to Generative Design”,
-    4th JAsCerS Special Symposium 2026 on the Satellite Program of ICC11, Sapporo, Hokkaido, Sep. 6, 2026.
+    “***”,
+    X-ray Analysis Discussion Meeting, Kunibiki Messe, Shimane, Oct. 22, 2026.
+
+1.  **Teruyasu Mizoguchi**
+    “***”,
+    RIST 22nd Materials Workshop, Akihabara (hybrid), Tokyo, Oct. 21, 2026.
+
+1.  **Teruyasu Mizoguchi**
+    “***”,
+    ACSIN-16 & ICSPM34, Himeji, Hyogo, Oct. 20, 2026.
+
+1.  **Teruyasu Mizoguchi**
+    “***” (Keynote Lecture),
+    Symposium of the 1st Division of the Council of Joint Usage/Research Centers and Institutes, Online, Oct. 13, 2026.
 
 1.  **Teruyasu Mizoguchi**
     “***”,
@@ -20,20 +32,8 @@ draft: false
     Tokyo City University–Institute of Industrial Science Academic Collaboration Symposium, Tokyo City University Shibuya PXU, Tokyo, Sep. 30, 2026.
 
 1.  **Teruyasu Mizoguchi**
-    “***” (Keynote Lecture),
-    Symposium of the 1st Division of the Council of Joint Usage/Research Centers and Institutes, Online, Oct. 13, 2026.
-
-1.  **Teruyasu Mizoguchi**
-    “***”,
-    ACSIN-16 & ICSPM34, Himeji, Hyogo, Oct. 20, 2026.
-
-1.  **Teruyasu Mizoguchi**
-    “***”,
-    RIST 22nd Materials Workshop, Akihabara (hybrid), Tokyo, Oct. 21, 2026.
-
-1.  **Teruyasu Mizoguchi**
-    “***”,
-    X-ray Analysis Discussion Meeting, Kunibiki Messe, Shimane, Oct. 22, 2026.
+    “AI-Driven Materials Discovery: From Atomistic Simulation to Generative Design”,
+    4th JAsCerS Special Symposium 2026 on the Satellite Program of ICC11, Sapporo, Hokkaido, Sep. 6, 2026.
 
 1.  **Teruyasu Mizoguchi**
     “AI for Ferroelectric Materials: From Atomistic Dynamics to Generative Design”,
