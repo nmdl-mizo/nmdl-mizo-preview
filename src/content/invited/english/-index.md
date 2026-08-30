@@ -7,6 +7,62 @@ draft: false
 ---
  <p align="right"> **Bold** *indicates presenter*
  
+1.  **Teruyasu Mizoguchi**
+    “AI-Driven Materials Discovery: From Atomistic Simulation to Generative Design”,
+    4th JAsCerS Special Symposium 2026 on the Satellite Program of ICC11, Sapporo, Hokkaido, Sep. 6, 2026.
+
+1.  **Teruyasu Mizoguchi**
+    “***”,
+    RIKEN Seminar, RIKEN, Wako, Sep. 30, 2026.
+
+1.  **Teruyasu Mizoguchi**
+    “***”,
+    Tokyo City University–Institute of Industrial Science Academic Collaboration Symposium, Tokyo City University Shibuya PXU, Tokyo, Sep. 30, 2026.
+
+1.  **Teruyasu Mizoguchi**
+    “***” (Keynote Lecture),
+    Symposium of the 1st Division of the Council of Joint Usage/Research Centers and Institutes, Online, Oct. 13, 2026.
+
+1.  **Teruyasu Mizoguchi**
+    “***”,
+    ACSIN-16 & ICSPM34, Himeji, Hyogo, Oct. 20, 2026.
+
+1.  **Teruyasu Mizoguchi**
+    “***”,
+    RIST 22nd Materials Workshop, Akihabara (hybrid), Tokyo, Oct. 21, 2026.
+
+1.  **Teruyasu Mizoguchi**
+    “***”,
+    X-ray Analysis Discussion Meeting, Kunibiki Messe, Shimane, Oct. 22, 2026.
+
+1.  **Teruyasu Mizoguchi**
+    “AI for Ferroelectric Materials: From Atomistic Dynamics to Generative Design”,
+    15th Korea-Japan Conference on Ferroelectrics, KAIST, Daejeon, Korea, Aug. 27, 2026.
+
+1.  **Teruyasu Mizoguchi**
+    “Inverse analysis for spectrum and materials” (Plenary Talk),
+    TOCAT10 Pre-Symposium in Sendai, Sendai, Aug. 17, 2026.
+
+1.  **Teruyasu Mizoguchi**
+    “AI 技術を活用したマテリアル探索と解析”,
+    CAMM Forum, Online, Aug. 7, 2026.
+
+1.  **Teruyasu Mizoguchi**
+    “AI と共に物質を設計する”,
+    Tsuruoka National College of Technology Seminar, Tsuruoka, Yamagata, Aug. 4, 2026.
+
+1.  **Teruyasu Mizoguchi**
+    “量子コンピュータは半導体材料開発にどう貢献できるのか～シミュレーションサイドからみた期待～”,
+    Qunasis Seminar, RISE-A, Otemachi, Tokyo, July 28, 2026.
+
+1.  **Teruyasu Mizoguchi**
+    “「情報基礎で学ぶコト」を活用した物質開発”,
+    Saitama University Special Lecture on Information Fundamentals, Saitama University, Saitama, July 24, 2026.
+
+1.  **Teruyasu Mizoguchi**
+    “AI 技術およびシミュレーションを活用した物質研究”,
+    Tokyo National College of Technology Seminar, Hachioji, Tokyo, July 10, 2026.
+
 1.  **溝口照康**，**高原泉**，  
     ”生成AI・LLMを活用した物質研究と新たな研究連携の可能性“  
     第11回デジラボ研究会，本郷, 東京，March 16th, 2026
