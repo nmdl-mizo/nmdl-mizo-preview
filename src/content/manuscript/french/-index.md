@@ -13,6 +13,9 @@ draft: false
 1.  KY. Liao, ..., **T. Mizoguchi**, ..., K. Suenaga  
     under preparation
 
+1.  **Pol Benítez**, T. Ouchi, C. Cazorla, and **Teruyasu Mizoguchi**    
+    submitted 
+
 1.  **Y. Wang** and **T. Mizoguchi**  
     "All-Electron Single-Atom Reference Correction for Absolute Transition Energies in Fixed-Reference PAW-XCH Calculations"  
     submitted  [**arxiv**](https://arxiv.org/abs/2608.09216)
@@ -32,10 +35,6 @@ draft: false
     "Intrinsic Defect Energetics and Fluorine Doping Effects in Li2CO3 and Li2O2: A First-Principles Study"  
     submitted [**arxiv**](https://arxiv.org/abs/2606.25408)  
 
-1.  **P. Y. Chen** and **T. Mizoguchi**  
-    "Transition from Homogeneous to Domain-Wall-Mediated Polarization Switching in BaTiO3: A Machine-Learning Molecular Dynamics Study"  
-    submitted [**arxiv**](https://arxiv.org/abs/2605.25485)  
-
 1.  **S. Ozawa**, **I. Takahara**, and **T. Mizoguchi**  
     "Scale-Dependent Input Representation and Confidence Estimation for LLMs in Materials Property Prediction"  
     submitted   [**arxiv**](https://arxiv.org/abs/2605.03515)
@@ -47,10 +46,6 @@ draft: false
 1.  **I. Okuda**, **I. Takahara**, and **T. Mizoguchi**  
     "Inverse Materials Design via Joint Generation of Crystal Structures and Local Electronic Descriptors"  
     submitted   [**arxiv**](https://arxiv.org/abs/2605.01286)
-
-1.  **YR. Jin**, J. Lee, and **T. Mizoguchi**   
-    "Learning Unfolded Band Structures from Spectra"  
-    submitted
 
 1.  **Y. Wang**, A. Varadwaj, **T. Mizoguchi**, and M. Kotsugi  
     "Decoding Dopant-Induced Electronic Modulation in Graphene via Region-Resolved Machine Learning of XANES"  
@@ -73,9 +68,17 @@ draft: false
 
     **— 2026 —**  
 
+1.  "Transition from Homogeneous to Domain-Wall-Mediated Polarization Switching in BaTiO3: A Machine-Learning Molecular Dynamics Study"  
+     **P. Y. Chen** and **T. Mizoguchi**  
+    *Phys. Rev. B*, (2026) in press. [**arxiv**](https://arxiv.org/abs/2605.25485)  
+
+1.  "Learning Unfolded Band Structures from Spectra"  
+     **YR. Jin**, J. Lee, and **T. Mizoguchi**  
+     *Digital Discovery*, (2026) in press.  
+
 1.  "Surface Cleaning and Trap Passivation of Solution Crystallized AgBiS2 Thin Film for Improved Solar Cell Performance"  
      L. Cojocaru, A. Jena, H. Tamegai, M. Kamiko, **T. Mizoguchi**, T. Kubo, S. Uchida, H. Segawa  
-    *ACS Appl. Ene. Mater.*, (2026) in press
+    *ACS Appl. Ene. Mater.*, (2026) in press.
 
 1.   "Vacancy-Driven Phase Separation Governs Li+ Transport Degradation in Li2−xO2 : A Computational Study Relevant to Li–O2 Batteries"  
      N. Ishihara,K. Nagita, **T. Sugiura**, Y. Mukoyama, **T. Mizoguchi**, and S. Nakanishi  

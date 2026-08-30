@@ -10,7 +10,7 @@ draft: false
 
 <img src="/nmdl-mizo-preview/images/mem/image1.png" style="width:1.48958in;height:1.82292in" />
 
-Professor, PI, Teruyasu Mizoguchi （教授・溝口 照康）, Ph. D
+Professor, PI, Teruyasu Mizoguchi （教授・溝口 照康）, Ph. D.  
 <br>email：teru_at_iis.u-tokyo.ac.jp
 <br>Linkdin：[Linkedin](https://www.linkedin.com/in/teruyasu-mizoguchi-035395284/)
 
@@ -29,7 +29,7 @@ Administrative staff, Yoko Matsuo（秘書・松尾　陽子）
 AI-Agent / Research & Web Operations Support, mace-san（maceさん）
 <br>Please contact mace-san via Slack
 
-<b>mace-san's Capabilities (2026.8)：</b>
+<b>mace-san’s Capabilities (2026.8)：</b>
 
 - MLIP（MACE，MACE-MH，MACE-Field，SevenNet，UMA，CHGNet）
 - DFT / electronic structure（VASP，CASTEP，WIEN2k，Quantum ESPRESSO，GPAW）
@@ -51,7 +51,7 @@ Tasuku Sugiura（杉浦　佑）
 
 <img src="/nmdl-mizo-preview/images/mem/46.jpg" style="width:1.44in;height:1.94in" />
 
-Yeongrok Jin, Ph. D  
+Yeongrok Jin, Ph. D.  
 <br>email：yrjin_at_iis.u-tokyo.ac.jp
 
 
@@ -144,3 +144,16 @@ M: Yutaro Matsuki（松木悠大郎）
 
 RS: ChihLun Hsu
 <br>email：chihlun_at_iis.u-tokyo.ac.jp  
+
+##### -Komaba Commons Lab　駒場コモンズラボ-
+
+<img src="/nmdl-mizo-preview/images/mem/uesugi.png" style="width:1.54133in;height:1.91667in" />
+
+Project Professor: Fumihiko Uesugi (上杉文彦), Ph. D. 
+<br>email：uesugi23_at_iis.u-tokyo.ac.jp  
+
+<img src="/nmdl-mizo-preview/images/mem/ykohei.png" style="width:1.54133in;height:1.91667in" />
+
+Lecturer: Kohei Yoshimoto (吉本幸平）, Ph. D. 
+<br>email：ykohei_at_iis.u-tokyo.ac.jp  
+

@@ -8,7 +8,22 @@ testimonials:
   - name: "2026, Aug."
     designation: ""
     avatar: ""
-    content: "新メンバー加入！？ preview のメンバー欄に，実験的 AI-Agent の <b>mace-san</b> が登場しました．<u>[mace-san はこちら](/member)</u>"
+    content: "電場印可機械学習ポテンシャルMDを用いて，BaTiO₃の分極反転機構が一様な反転からdomain wallを介した反転へと移り変わる過程を明らかにした研究成果が，Physical Review Bに掲載決定しました．"
+
+  - name: "2026, Aug."
+    designation: ""
+    avatar: ""
+    content: "状態密度（DOS）からバンド構造を生成（unfold）する機械学習手法に関する研究成果が，Digital Discovery誌への掲載が決定しました．"
+
+  - name: "2026, Aug."
+    designation: ""
+    avatar: ""
+    content: "Physical AIを活用した物質計測拠点，<u>[駒場コモンズラボ](https://sites.google.com/g.ecc.u-tokyo.ac.jp/komaba-commons-lab/)</u>所属の協力メンバーを追加しました"
+
+  - name: "2026, Aug."
+    designation: ""
+    avatar: ""
+    content: "新メンバー加入！？ メンバー欄に，実験的 AI-Agent の <b>mace-san</b> が登場しました．<u>[mace-san はこちら](/member)</u>"
 
   - name: "2026, Aug."
     designation: ""
