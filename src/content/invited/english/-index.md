@@ -72,7 +72,7 @@ draft: false
     Synchrotron Frontier 2026, March 11th, 2026
 
 1.  **Teruyasu Mizoguchi**  
-    ”Machine-learning-driven Simulation and Generative Design of Functional Materials“, 
+    ”AI-Driven Analysis of EELS/XAFS for Exploring Synchrotron Frontiers in MaterialsDesign“, 
     PNU-HU-international workshop, Jan. 20th, 2026
 
 1.  **Teruyasu Mizoguchi**  
