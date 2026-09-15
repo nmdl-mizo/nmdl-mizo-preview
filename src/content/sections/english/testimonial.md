@@ -8,7 +8,7 @@ testimonials:
   - name: "2026, Sep."
     designation: ""
     avatar: ""
-    content: "Our first-principles study of intrinsic defect energetics and fluorine-doping effects in Li2CO3 and Li2O2 has been accepted for publication in <b>The Journal of Physical Chemistry C</b>. <u>[arxiv](https://arxiv.org/abs/2606.25408)</u>"
+    content: "Our collaborative research with Osaka University and the National Institute for Fusion Science, using first-principles calculations to investigate intrinsic defect energetics and fluorine-doping effects in Li2CO3 and Li2O2, has been accepted for publication in <b>The Journal of Physical Chemistry C</b>. <u>[arxiv](https://arxiv.org/abs/2606.25408)</u>"
 
   - name: "2026, Aug."
     designation: ""

@@ -31,9 +31,9 @@ draft: false
 1.  **L. Wong**, **Y. R. Jin**, and **T. Mizoguchi**  
     submitted
 
-1.  **Y. Choi**, **T. Sugiura**, K. Mukai, N. Ishihara, S. Nakanishi, and **T. Mizoguchi**  
+1.  **Y. Choi**, **T. Sugiura**,......, and **T. Mizoguchi**  
     "Intrinsic Defect Energetics and Fluorine Doping Effects in Li2CO3 and Li2O2: A First-Principles Study"  
-    *The Journal of Physical Chemistry C*, (2026) accepted for publication. [**arxiv**](https://arxiv.org/abs/2606.25408)  
+    submitted [**arxiv**](https://arxiv.org/abs/2606.25408)  
 
 1.  **S. Ozawa**, **I. Takahara**, and **T. Mizoguchi**  
     "Scale-Dependent Input Representation and Confidence Estimation for LLMs in Materials Property Prediction"  
@@ -67,6 +67,10 @@ draft: false
     submitted, [**arxiv**](https://arxiv.org/abs/2602.18054)
 
     **— 2026 —**  
+
+1.  "Intrinsic Defect Energetics and Fluorine Doping Effects in Li2CO3 and Li2O2: A First-Principles Study"  
+    **Y. Choi**, **T. Sugiura**, K. Mukai, N. Ishihara, S. Nakanishi, and **T. Mizoguchi**  
+    *The Journal of Physical Chemistry C*, (2026) accepted for publication. [**arxiv**](https://arxiv.org/abs/2606.25408)  
 
 1.  "Transition from Homogeneous to Domain-Wall-Mediated Polarization Switching in BaTiO3: A Machine-Learning Molecular Dynamics Study"  
      **P. Y. Chen** and **T. Mizoguchi**  

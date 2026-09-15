@@ -8,7 +8,7 @@ testimonials:
   - name: "2026, Sep."
     designation: ""
     avatar: ""
-    content: "Li2CO3およびLi2O2における固有欠陥エネルギーとフッ素ドーピング効果に関する第一原理計算研究が，<b>The Journal of Physical Chemistry C</b> に掲載決定しました．<u>[arxiv](https://arxiv.org/abs/2606.25408)</u>"
+    content: "大阪大学・核融合科学研究所との共同研究として，Li2CO3およびLi2O2における固有欠陥エネルギーとフッ素ドーピング効果を第一原理計算で解明した研究成果が，<b>The Journal of Physical Chemistry C</b> に掲載決定しました．<u>[arxiv](https://arxiv.org/abs/2606.25408)</u>"
 
   - name: "2026, Aug."
     designation: ""
