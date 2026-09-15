@@ -31,9 +31,9 @@ draft: false
 1.  **L. Wong**, **Y. R. Jin**, and **T. Mizoguchi**  
     submitted
 
-1.  **Y. Choi**, **T. Sugiura**,......, and **T. Mizoguchi**  
+1.  **Y. Choi**, **T. Sugiura**, K. Mukai, N. Ishihara, S. Nakanishi, and **T. Mizoguchi**  
     "Intrinsic Defect Energetics and Fluorine Doping Effects in Li2CO3 and Li2O2: A First-Principles Study"  
-    submitted [**arxiv**](https://arxiv.org/abs/2606.25408)  
+    *The Journal of Physical Chemistry C*, (2026) accepted for publication. [**arxiv**](https://arxiv.org/abs/2606.25408)  
 
 1.  **S. Ozawa**, **I. Takahara**, and **T. Mizoguchi**  
     "Scale-Dependent Input Representation and Confidence Estimation for LLMs in Materials Property Prediction"  

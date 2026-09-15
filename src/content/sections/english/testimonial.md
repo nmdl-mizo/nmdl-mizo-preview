@@ -5,6 +5,11 @@ description: "<b><u> [Previous News](/en/news)<br> [Linkdin](https://www.linkedi
 
 # Testimonials
 testimonials:
+  - name: "2026, Sep."
+    designation: ""
+    avatar: ""
+    content: "Our first-principles study of intrinsic defect energetics and fluorine-doping effects in Li2CO3 and Li2O2 has been accepted for publication in <b>The Journal of Physical Chemistry C</b>. <u>[arxiv](https://arxiv.org/abs/2606.25408)</u>"
+
   - name: "2026, Aug."
     designation: ""
     avatar: ""
