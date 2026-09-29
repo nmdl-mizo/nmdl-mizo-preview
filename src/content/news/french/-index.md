@@ -8,8 +8,6 @@ draft: false
 **<b> 最新のニュースはTop pageやTwitter（X)をご覧ください </b>**
 
 **2026**  
-- Sep 2026 NeurIPS workshop（AI4S，AI4M）に3件の発表が採択されました．
-
 - July 2026 Li2O2におけるLi空孔駆動相転移に関する大阪大学，東京電機大学との共同研究成果がJ. Phys. Chem. Cに掲載決定しました．
 
 - June 2026 DFTコードFHI-aims code開発に関する国際共同研究成果Electronic Structureに掲載決定しました．

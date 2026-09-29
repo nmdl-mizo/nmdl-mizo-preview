@@ -8,8 +8,6 @@ draft: false
 **<b> Please see top-page, <u>[Mizoguchi Linkdin](https://www.linkedin.com/in/teruyasu-mizoguchi-035395284/)</u>, and <u>[lab X(mainly Japanese)](https://x.com/nmdl_mizo)</u> for the latest new! </b>**
 
 **2026　:**
-- Sep 2026 Three presentations have been accepted at NeurIPS workshops (AI4S and AI4M).
-
 - July 2026 A collaborative research paper on Li-vacancy phase transition in Li2O2 was accepted for publication in J. Phys. Chem. C.
 
 - June 2026 A big-collaboration research paper on FHI-aims code was accepted for publication in Electronic Structure.
