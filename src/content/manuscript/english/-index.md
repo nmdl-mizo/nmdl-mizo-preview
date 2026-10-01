@@ -78,7 +78,7 @@ draft: false
 
 1.  "Transition from Homogeneous to Domain-Wall-Mediated Polarization Switching in BaTiO3: A Machine-Learning Molecular Dynamics Study"  
      **P. Y. Chen** and **T. Mizoguchi**  
-    *Phys. Rev. B*, (2026) in press. [**arxiv**](https://arxiv.org/abs/2605.25485)  
+    *Phys. Rev. B* 114 (2026) 134312. [**arxiv**](https://arxiv.org/abs/2605.25485)  
 
 1.  "Learning Unfolded Band Structures from Spectra"  
      **YR. Jin**, J. Lee, and **T. Mizoguchi**  
