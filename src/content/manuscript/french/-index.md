@@ -51,10 +51,6 @@ draft: false
     "Inverse Materials Design via Joint Generation of Crystal Structures and Local Electronic Descriptors"  
     submitted   [**arxiv**](https://arxiv.org/abs/2605.01286)
 
-1.  **Y. Wang**, A. Varadwaj, **T. Mizoguchi**, and M. Kotsugi  
-    "Decoding Dopant-Induced Electronic Modulation in Graphene via Region-Resolved Machine Learning of XANES"  
-    submitted  [**arxiv**](https://arxiv.org/abs/2603.29370)
-
 1.  **R. Sahashi**, **P. Y. Chen**, and **T. Mizoguchi**  
     "Origin of Reduced Coercive Field in ScAlN: Synergy of Structural Softening and Dynamic Atomic Correlations"  
     submitted, (dynamic softening) [**arxiv**](https://arxiv.org/abs/2603.18710)
@@ -79,6 +75,10 @@ draft: false
 1.  "Transition from Homogeneous to Domain-Wall-Mediated Polarization Switching in BaTiO3: A Machine-Learning Molecular Dynamics Study"  
      **P. Y. Chen** and **T. Mizoguchi**  
     *Phys. Rev. B* 114 (2026) 134312. [**arxiv**](https://arxiv.org/abs/2605.25485)  
+
+1.  "Decoding Dopant-Induced Electronic Modulation in Graphene via Region-Resolved Machine Learning of XANES"  
+    **Y. Wang**, A. Varadwaj, **T. Mizoguchi**, and M. Kotsugi  
+    *Digital Discovery*, (2026) in press. [**arxiv**](https://arxiv.org/abs/2603.29370)  
 
 1.  "Learning Unfolded Band Structures from Spectra"  
      **YR. Jin**, J. Lee, and **T. Mizoguchi**  
