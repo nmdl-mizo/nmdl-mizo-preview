@@ -70,11 +70,7 @@ draft: false
 
 1.  "Intrinsic Defect Energetics and Fluorine Doping Effects in Li2CO3 and Li2O2: A First-Principles Study"  
     **Y. Choi**, **T. Sugiura**, K. Mukai, N. Ishihara, S. Nakanishi, and **T. Mizoguchi**  
-    *The Journal of Physical Chemistry C*, (2026) accepted for publication. [**arxiv**](https://arxiv.org/abs/2606.25408)  
-
-1.  "Transition from Homogeneous to Domain-Wall-Mediated Polarization Switching in BaTiO3: A Machine-Learning Molecular Dynamics Study"  
-     **P. Y. Chen** and **T. Mizoguchi**  
-    *Phys. Rev. B* 114 (2026) 134312. [**arxiv**](https://arxiv.org/abs/2605.25485)  
+    *J. Phys. Chem. C*, (2026) in press. [**arxiv**](https://arxiv.org/abs/2606.25408)  
 
 1.  "Decoding Dopant-Induced Electronic Modulation in Graphene via Region-Resolved Machine Learning of XANES"  
     **Y. Wang**, A. Varadwaj, **T. Mizoguchi**, and M. Kotsugi  
@@ -86,7 +82,11 @@ draft: false
 
 1.  "Surface Cleaning and Trap Passivation of Solution Crystallized AgBiS2 Thin Film for Improved Solar Cell Performance"  
      L. Cojocaru, A. Jena, H. Tamegai, M. Kamiko, **T. Mizoguchi**, T. Kubo, S. Uchida, H. Segawa  
-    *ACS Appl. Ene. Mater.*, (2026) in press.
+    *ACS Appl. Ene. Mater.*, (2026) in press
+
+1.  "Transition from Homogeneous to Domain-Wall-Mediated Polarization Switching in BaTiO3: A Machine-Learning Molecular Dynamics Study"  
+     **P. Y. Chen** and **T. Mizoguchi**  
+    *Phys. Rev. B* 114 (2026) 134312. [**arxiv**](https://arxiv.org/abs/2605.25485).
 
 1.   "Vacancy-Driven Phase Separation Governs Li+ Transport Degradation in Li2−xO2 : A Computational Study Relevant to Li–O2 Batteries"  
      N. Ishihara,K. Nagita, **T. Sugiura**, Y. Mukoyama, **T. Mizoguchi**, and S. Nakanishi  
