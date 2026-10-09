@@ -111,7 +111,7 @@ draft: false
 <img src="/images/alumni/image8.png" style="width:1.61667in;height:2.08333in"  />
 
 **D: Liao Kunyen，Ph. D**
-<br> STEM-EELSを利用したセラミックス材料解析に関する研究に取り組み，ガラスを構成するアルミや酸素の配位数の分布を明らかにする手法を開発したり，局所熱物性を計測する手法を開発したりしてくれました．（現在，TSMCで活躍中！）
+<br> STEM-EELSを利用したセラミックス材料解析に関する研究に取り組み，ガラスを構成するアルミや酸素の配位数の分布を明らかにする手法を開発したり，局所熱物性を計測する手法を開発したりしてくれました．（現在，溝口研究室の助教として活躍中！）
 
 <img src="/images/alumni/image9.png" style="width:1.61667in;height:2.08333in"  />
 
