@@ -12,6 +12,16 @@ draft: false
 
 **D: Pol Benítez Colominas (Universitat Politècnica de Catalunya)**
 
+<img src="/nmdl-mizo-preview/images/mem/image9.png" style="width:1.56667in;height:2.08333in" />
+
+**D: Poyen Chen**
+<br>電場印可MLIP-MD計算手法を開発してくれて多くの成果を出してくれました．また，後輩も多く育ててくれて，研究室の現在のActivityに大変貢献してくれました．（現在TSMCで活躍中！）
+
+<img src="/nmdl-mizo-preview/images/mem/image12.png" style="width:1.61667in;height:2.08333in" />
+
+**M: Gen Fukuzawa（福沢 源）**
+<br>モアレイオニクスに関する研究に取り組み，最後に論文を出してくれました．
+
 <img src="/images/mem/image8.png" style="width:1.61667in;height:2.08333in"  />  
 
 ##### 2025
