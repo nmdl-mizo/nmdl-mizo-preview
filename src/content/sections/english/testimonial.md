@@ -4,6 +4,11 @@ title: "What's new!"
 description: "<b><u> [Previous News](/en/news)<br> [Linkdin](https://www.linkedin.com/in/teruyasu-mizoguchi-035395284/)<br>[Lab X (mainly Japanese)](https://x.com/nmdl_mizo)</b></u>"
 
 # Testimonials
+  - name: "2026, Oct."
+    designation: ""
+    avatar: ""
+    content: "Our study by R. Sahashi, P. Y. Chen, and T. Mizoguchi, which uses electric-field-driven machine-learning-potential molecular dynamics to uncover transient detours and cooperative oxygen exchange during polarization switching in ferroelectric Hf0.5Zr0.5O2, has been accepted for publication in <b>ACS Applied Electronic Materials</b>. <u>[arxiv](https://arxiv.org/abs/2607.26597)</u>"
+
 testimonials:
   - name: "2026, Sep."
     designation: ""
