@@ -70,7 +70,7 @@ draft: false
 
 1.  "Transient Detour and Cooperative Oxygen Exchange in the Polarization Switching of Ferroelectric Hf0.5Zr0.5O2"  
     **R. Sahashi**, **P. Y. Chen**, and **T. Mizoguchi**  
-    *ACS Applied Electronic Materials*, (2026) in press. [**arxiv**](https://arxiv.org/abs/2607.26597)  
+    *ACS Appl. Electron. Mater.*, (2026) in press. [**arxiv**](https://arxiv.org/abs/2607.26597)  
 
 1.  "Intrinsic Defect Energetics and Fluorine Doping Effects in Li2CO3 and Li2O2: A First-Principles Study"  
     **Y. Choi**, **T. Sugiura**, K. Mukai, N. Ishihara, S. Nakanishi, and **T. Mizoguchi**  

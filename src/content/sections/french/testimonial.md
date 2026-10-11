@@ -4,12 +4,12 @@ title: "What's new!"
 description: "<b><u> [過去のニュース](/news) <br>[Linkdin](https://www.linkedin.com/in/teruyasu-mizoguchi-035395284/)<br>[研究室 X](https://x.com/nmdl_mizo) </u> </b> "
 
 # Testimonials
+testimonials:
   - name: "2026, Oct."
     designation: ""
     avatar: ""
-    content: "佐橋さんらが，電場印可機械学習ポテンシャルMDを用いてHf0.5Zr0.5O2の分極反転における過渡的な迂回経路と協調的酸素交換を明らかにした研究成果が，<b>ACS Applied Electronic Materials</b> に掲載決定しました．<u>[arxiv](https://arxiv.org/abs/2607.26597)</u>"
+    content: "佐橋さんらが，電場印可機械学習ポテンシャルMDを用いてHf0.5Zr0.5O2の分極反転における過渡的な迂回経路と協調的酸素交換を明らかにした研究成果が，<b>ACS Appl. Electron. Mater.</b> に掲載決定しました．<u>[arxiv](https://arxiv.org/abs/2607.26597)</u>"
 
-testimonials:
   - name: "2026, Sep."
     designation: ""
     avatar: ""
