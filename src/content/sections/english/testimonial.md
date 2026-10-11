@@ -8,7 +8,7 @@ testimonials:
   - name: "2026, Oct."
     designation: ""
     avatar: ""
-    content: "Our study by R. Sahashi, P. Y. Chen, and T. Mizoguchi, which uses electric-field-driven machine-learning-potential molecular dynamics to uncover transient detours and cooperative oxygen exchange during polarization switching in ferroelectric Hf0.5Zr0.5O2, has been accepted for publication in <b>ACS Appl. Electron. Mater.</b>. <u>[arxiv](https://arxiv.org/abs/2607.26597)</u>"
+    content: "Our research using electric-field-driven machine-learning-potential molecular dynamics to reveal transient detours and cooperative oxygen exchange during polarization switching in ferroelectric Hf0.5Zr0.5O2 has been accepted for publication in <b>ACS Appl. Electron. Mater.</b>."
 
   - name: "2026, Sep."
     designation: ""
