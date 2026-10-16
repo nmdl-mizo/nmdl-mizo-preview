@@ -10,8 +10,8 @@ draft: false
 1.  **K. Miyamoto**, **I. Okuda**, **I. Takahara**, and **T. Mizoguchi**  
     under preparation
 
-1.  KY. Liao, ..., **T. Mizoguchi**, ..., K. Suenaga  
-    under preparation
+1.  K.-Y. Liao, R. Senga, Y.-C. Lin, **T. Mizoguchi**, and K. Suenaga  
+    submitted
 
 1.  **Pol Benítez**, T. Ouchi, C. Cazorla, and **Teruyasu Mizoguchi**    
     submitted 
@@ -46,10 +46,6 @@ draft: false
 1.  **Y. Wang**, **P.Y. Chen**, and **T. Mizoguchi**  
     "Ultrafast Sliding Ferroelectric Switching in Bilayer Hexagonal Boron Nitride Revealed by Deep Learning Molecular Dynamics"  
      submitted   [**arxiv**](https://arxiv.org/abs/2604.27342)
-
-1.  **I. Okuda**, **I. Takahara**, and **T. Mizoguchi**  
-    "Inverse Materials Design via Joint Generation of Crystal Structures and Local Electronic Descriptors"  
-    submitted   [**arxiv**](https://arxiv.org/abs/2605.01286)
 
 1.  **R. Sahashi**, **P. Y. Chen**, and **T. Mizoguchi**  
     "Origin of Reduced Coercive Field in ScAlN: Synergy of Structural Softening and Dynamic Atomic Correlations"  
@@ -87,6 +83,10 @@ draft: false
 1.  "Surface Cleaning and Trap Passivation of Solution Crystallized AgBiS2 Thin Film for Improved Solar Cell Performance"  
      L. Cojocaru, A. Jena, H. Tamegai, M. Kamiko, **T. Mizoguchi**, T. Kubo, S. Uchida, H. Segawa  
     *ACS Appl. Ene. Mater.*, (2026) in press
+
+1.  "Inverse Materials Design via Joint Generation of Crystal Structures and Local Electronic Descriptors"  
+    **I. Okuda**, **I. Takahara**, and **T. Mizoguchi**  
+    *npj Computational Materials* 12 (2026) 332. [**Open Access**](https://www.nature.com/articles/s41524-026-02322-4), [**Code**](https://github.com/nmdl-mizo/MatterGen-e-), [**arxiv**](https://arxiv.org/abs/2605.01286)
 
 1.  "Transition from Homogeneous to Domain-Wall-Mediated Polarization Switching in BaTiO3: A Machine-Learning Molecular Dynamics Study"  
      **P. Y. Chen** and **T. Mizoguchi**  

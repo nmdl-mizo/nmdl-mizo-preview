@@ -8,6 +8,11 @@ testimonials:
   - name: "2026, Oct."
     designation: ""
     avatar: ""
+    content: "Our research on MatterGen-e−, a generative AI framework that jointly generates crystal structures and local electronic descriptors for inverse materials design, has been published in <b>npj Computational Materials</b>. The article is <u>[Open Access](https://www.nature.com/articles/s41524-026-02322-4)</u>, and the associated <u>[code](https://github.com/nmdl-mizo/MatterGen-e-)</u> is publicly available on GitHub. A press release was also issued."
+
+  - name: "2026, Oct."
+    designation: ""
+    avatar: ""
     content: "Our research using electric-field-driven machine-learning-potential molecular dynamics to reveal transient detours and cooperative oxygen exchange during polarization switching in ferroelectric Hf0.5Zr0.5O2 has been accepted for publication in <b>ACS Appl. Electron. Mater.</b>."
 
   - name: "2026, Sep."

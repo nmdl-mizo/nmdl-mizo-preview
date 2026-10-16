@@ -8,6 +8,11 @@ testimonials:
   - name: "2026, Oct."
     designation: ""
     avatar: ""
+    content: "結晶構造と局所電子記述子を同時生成する逆物質設計のための生成AIフレームワークMatterGen-e−に関する研究成果が，<b>npj Computational Materials</b> に掲載されました．論文は <u>[Open Access](https://www.nature.com/articles/s41524-026-02322-4)</u> で公開されており，関連する <u>[コード](https://github.com/nmdl-mizo/MatterGen-e-)</u> もGitHubで公開しています．また，本研究についてプレスリリースを行いました．"
+
+  - name: "2026, Oct."
+    designation: ""
+    avatar: ""
     content: "電場印加機械学習ポテンシャルMDを用いてHf0.5Zr0.5O2の分極反転における過渡的な迂回経路と協調的酸素交換を明らかにした研究成果が，<b>ACS Appl. Electron. Mater.</b> に掲載決定しました．"
 
   - name: "2026, Sep."
