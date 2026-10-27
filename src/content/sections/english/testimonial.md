@@ -8,7 +8,7 @@ testimonials:
   - name: "2026, Oct."
     designation: ""
     avatar: ""
-    content: "Our research on MatterGen-e−, a generative AI framework that jointly generates crystal structures and local electronic descriptors for inverse materials design, has been published in <b>npj Computational Materials</b>. The article is <u>[Open Access](https://www.nature.com/articles/s41524-026-02322-4)</u>, and the associated <u>[code](https://github.com/nmdl-mizo/MatterGen-e-)</u> is publicly available on GitHub. A press release was also issued."
+    content: "Our paper on MatterGen-e-, an AI for inverse materials design guided by electronic behavior, has been published in <b>npj Computational Materials</b>, and a press release has been issued．[**OpenAcess**](https://www.nature.com/articles/s41524-026-02322-4), [**Press Release**](https://www.eurekalert.org/news-releases/1147428)"
 
   - name: "2026, Oct."
     designation: ""
@@ -23,7 +23,12 @@ testimonials:
   - name: "2026, Sep."
     designation: ""
     avatar: ""
-    content: "Our collaborative research with Osaka University and the National Institute for Fusion Science, using first-principles calculations to investigate intrinsic defect energetics and fluorine-doping effects in Li2CO3 and Li2O2, has been accepted for publication in <b>The Journal of Physical Chemistry C</b>. <u>[arxiv](https://arxiv.org/abs/2606.25408)</u>"
+    content: "Our collaborative research with Osaka University and the National Institute for Fusion Science, using first-principles calculations to investigate intrinsic defect energetics and fluorine-doping effects in Li2CO3 and Li2O2, has been accepted for publication in <b>The Journal of Physical Chemistry C</b>. <u>[arxiv](https://arxiv.org/abs/2606.25408)</u>,  [**OpenAcess**](https://pubs.acs.org/jpccck/article/130/42/14726/5448426/Intrinsic-Defect-Energetics-and-Fluorine-Doping) </u>"
+
+  - name: "2026, Sep."
+    designation: ""
+    avatar: ""
+    content: "Lab members made excellent preentations in JSAP@Hokkaido!! We have really enjoyed Hokkaido!<u>[Here](https://x.com/nmdl_mizo/status/2098343713974165566)</u>"
 
   - name: "2026, Aug."
     designation: ""
@@ -33,7 +38,7 @@ testimonials:
   - name: "2026, Aug."
     designation: ""
     avatar: ""
-    content: "Our research on a machine learning method for generating (unfolding) band structures from the density of states (DOS) has been accepted for publication in Digital Discovery."
+    content: "Our research on a machine learning method for generating (unfolding) band structures from the density of states (DOS) has been accepted for publication in Digital Discovery.<u>[**OpenAcess**](https://pubs.rsc.org/dd/article/5/10/4221/1296732/Learning-unfolded-band-structures-from-spectra)</u>．"
 
   - name: "2026, Aug."
     designation: ""
